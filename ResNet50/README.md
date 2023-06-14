@@ -1,1 +1,1 @@
-Implementing ResNet50 from scratch for Wafer Dataset
+Implementing ResNet50 for semiconductor Wafer Dataset.
